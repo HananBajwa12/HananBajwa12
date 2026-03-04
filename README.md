@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABDUL HANAN BAJWA</h1>
 <h3 align="center">A AI/ML Engineer From Pakistan</h3>
-<img align="right"alt="coding"width="400"src="images.png">
 
 - 🔭 I’m currently working on Labour tracking App [Labour tracking App](labour-tracker-app.vercel.app)
 
